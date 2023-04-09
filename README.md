@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ellamcknight
 - 👀 I’m interested in marine ecology & data science
-- 🌱 I’m currently learning R & Python
+- 🌱 R, Python & SQL
 
 
 <!---
