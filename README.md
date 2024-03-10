@@ -17,7 +17,7 @@ Queens University Belfast
 
 ## Languages
 <pre>
-◾ Python  ◾ R ◾ SQL     
+◾ Python ◾ R ◾ SQL     
 </pre>
 
 
