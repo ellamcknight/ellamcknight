@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @ellamcknight
-- 👀 I’m interested in marine ecology & data science
-- 🌱 R, Python & SQL
+### Hi, I’m Ella
+
+- :nerd_face: I am a data coach sharing my learning in data science, research and coding skills.
+- :woman_student: I studied ecology and statistics at Queen's University Belfast & Southampton University
+- :books: I’m interested in data science & ecology
+- :computer: Currently learning advanced R, Python & SQL
 
 
 <!---
