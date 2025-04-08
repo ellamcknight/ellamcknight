@@ -3,7 +3,7 @@ I am a **Data Scientist & Data Coach** who loves programming, data visualization
 
 ## Education
 
-🎓 PhD Marine Science :globe_with_meridians:
+🎓 PhD Marine Science
 
 National Oceanographic Centre, Southampton University
 
